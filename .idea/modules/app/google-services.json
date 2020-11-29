@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127323522217",
+    "firebase_url": "https://socialhit-ceb82.firebaseio.com",
+    "project_id": "socialhit-ceb82",
+    "storage_bucket": "socialhit-ceb82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127323522217:android:bd0448680a51fc98a455b8",
+        "android_client_info": {
+          "package_name": "com.socialhit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127323522217-fhbh914gsr0bfgetvboulfk8257iuckk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialhit.app",
+            "certificate_hash": "c3eecebe494ec4a5f37d797b1fc62910d9dbbbbe"
+          }
+        },
+        {
+          "client_id": "127323522217-srpd2t0tgcenlsbp838bft22art1vg8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQlC-PZ8PO67vCezuAuiYl3Nja85T6iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127323522217-srpd2t0tgcenlsbp838bft22art1vg8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
